@@ -5,3 +5,5 @@ I developed a toolbox for this a long while ago (Circa 2009) for my Bachelor's d
 Scilab already provides some [information](https://www.scilab.org/build-a-toolbox) on how to build a toolbox.
 
 I committed the Bachelor's degree thesis and I'll keep it there for a short period of time (it shouldn't be there) but I need it in the repo for reference.
+
+I believe I used C for the core functionality, I hope I can still use that language because I'm not into C++ (as they suggest to use that language to develop the toolbox)
